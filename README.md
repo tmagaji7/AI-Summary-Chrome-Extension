@@ -6,11 +6,10 @@ Elegant dark mode UI. Works with Gemini, GPT‑4, Claude, and LLaMA.
 ---
 
 ##  Features
-- 📌 One-click summaries (Brief, Detailed, Bullet Points)
-- 🌐 Multi-language support
-- 🤖 Choose your AI model (Gemini, GPT‑4, Claude, LLaMA)
-- 📋 Copy summaries to clipboard
-- 🍎 Clean, Apple-style design
+-  One-click summaries (Brief, Detailed, Bullet Points)
+-  Multi-language support
+-  Copy summaries to clipboard
+
 
 ---
 
